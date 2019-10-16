@@ -6,8 +6,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-##LARASTART
-This is Starter Admin For Laravel. This repo is based on practical web application development course on youtube.
+
+## LARASTART
+
+This is Starter Admin For Laravel. 
+This repo is based on practical web application development course on youtube.
 Link for this complete course is https://www.youtube.com/playlist?list=PLB4AdipoHpxaHDLIaMdtro1eXnQtl_UvE
 
 Here are the things you will learn in this Course and what the repo include out of the box:
@@ -30,7 +33,8 @@ Here are the things you will learn in this Course and what the repo include out 
 **And much more...**
 
 
-##INSTALATION
+## INSTALATION
+
 **Clone the repo git clone https://github.com/thenevermore/larastart.git**
 **cd to project folder.**
 **Run composer install**
