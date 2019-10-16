@@ -6,6 +6,41 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+##LARASTART
+This is Starter Admin For Laravel. This repo is based on practical web application development course on youtube.
+Link for this complete course is https://www.youtube.com/playlist?list=PLB4AdipoHpxaHDLIaMdtro1eXnQtl_UvE
+
+Here are the things you will learn in this Course and what the repo include out of the box:
+
+**How use Vue Router with Laravel**
+**How to Install AdminLTE 3**
+**How to Use Font Awesome 5 on Laravel**
+**How integrate mailchimp with laravel**
+**How to use Laravel Socialite**
+**How to Login Using Social Media**
+**How to Use API in Laravel**
+**Api Auth with Laravel Passport**
+**JWT with Laravel Passport and JavaScript Request**
+**Vue Custom Events**
+**Vue form with Laravel**
+**Relational Database with Laravel**
+**Axios and Ajax Request**
+**ACL in Laravel**
+**Online Users list**
+**And much more...**
+
+
+##INSTALATION
+**Clone the repo git clone https://github.com/thenevermore/larastart.git**
+**cd to project folder.**
+**Run composer install**
+**Save as the .env.example to .env and set your database information**
+**Run php artisan key:generate to generate the app key**
+**Run npm install**
+**Run php artisan migrate**
+**Done !!! Enjoy Customizing and building awesome app**
+
+
 
 ## About Laravel
 
